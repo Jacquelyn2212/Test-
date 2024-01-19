@@ -1,7 +1,7 @@
 from flask import Flask,request,render_template
 import json,requests,time
 headers = {
-    "Authorization" : "Token ",
+    "Authorization" : "r8_DTxUjEFQk464TPGzJURUSj89L3aaLRk2QQbid",
     "Content-Type" : "application/json"
 }
 app = Flask(__name__)
